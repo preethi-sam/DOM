@@ -33,7 +33,7 @@ main.appendChild(art1);
 //creating image
 
 var img=document.createElement("img");
-img.src="images/profile1.jpg";
+img.src="profile1.jpg";
 img.alt="profile";
 art1.appendChild(img);
  
